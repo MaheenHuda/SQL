@@ -1,7 +1,9 @@
 Project Summary: Data Cleaning for Company Layoff Dataset
 
 Overview:
-In this data-intensive project, I meticulously tackled the complexities of a company's layoff dataset. My mission? To ensure data quality, consistency, and reliability—essential for informed decision-making. Leveraging MySQLWorkbench, I executed complex SQL queries, transforming raw data into a pristine, actionable resource.
+In this data-intensive project, I meticulously tackled the complexities of a company's layoff dataset. 
+My mission? To ensure data quality, consistency, and reliability—essential for informed decision-making. 
+Leveraging MySQLWorkbench, I executed complex SQL queries, transforming raw data into a pristine, actionable resource.
 
 Key Focus Areas:
 
@@ -38,7 +40,7 @@ Impact and Takeaways:
   - Assessing workforce dynamics
 - By mastering complex SQL queries, I demonstrated my ability to handle real-world data challenges and contribute to data quality improvement.
 
-As a data enthusiast, I'm excited to continue refining my skills and applying them to meaningful projects. 🚀📊
+As a data enthusiast, I'm excited to continue refining my skills and applying them to meaningful projects. 
 
 *********************************************************************
 Code:
